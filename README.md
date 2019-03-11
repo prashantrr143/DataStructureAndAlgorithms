@@ -6,4 +6,5 @@ Updated by master branch: Adding Sotring basic algorithms: branch name  feature/
 
 Updated by branch feature/sorting: Adding Sotring basic algorithms: branch name  feature/sorting .
 
-
+# Segment Tree
+Segmment Tree is a special type of tree used for Range Sum Queries problems.
